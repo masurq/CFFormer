@@ -83,9 +83,9 @@ C.resume_total_epoch = 500
 
 # dataset设置
 C.dataset_name = 'six'
-C.train_data_root = r'D:\zzh-segmentation\run_data\Vaihingen_run_best\Vaihingen_run_best\all_train'
-C.val_data_root = r'D:\zzh-segmentation\run_data\Vaihingen_run_best\Vaihingen_run_best\val'
-C.test_data_root = r'D:\zzh-segmentation\run_data\Vaihingen_run_best\Vaihingen_run_best\test'
+C.train_data_root = r'\run_data\Vaihingen_run_best\Vaihingen_run_best\all_train'
+C.val_data_root = r'\run_data\Vaihingen_run_best\Vaihingen_run_best\val'
+C.test_data_root = r'\run_data\Vaihingen_run_best\Vaihingen_run_best\test'
 
 C.aug_flip = True  # 是否使用随机翻转
 C.aug_rotate = True  # 是否使用随机旋转
