@@ -1,0 +1,10 @@
+scipy==1.7.3
+opencv-python==4.9.0.80
+GDAL== 3.0.4
+timm==0.6.12
+tensorboard==2.11.2
+tensorboardX 
+fvcore==0.1.5.post20221221
+thop
+easydict 
+skimage== 0.19.3
